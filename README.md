@@ -47,7 +47,7 @@ The following elements are currently included within the repository:
 1.  [**README.md**](https://github.com/weinsteinabi/WeinsteinActivity15/blob/main/README.md) - contains overview of the repository, data sources, and creator contact information.
 2.  [**Activity #15 Plan**](https://github.com/weinsteinabi/WeinsteinActivity15/blob/main/Activity15Plan) - contains goals and plans for both repository management and report development.
 3.  [**Activity #15 QMD**](https://github.com/weinsteinabi/WeinsteinActivity15/blob/main/Activity15QMD.qmd) - Quarto documentation for the Activity #14 report; contains raw code and narrative text.
-4.  [**Activity #15 Report**](https://github.com/weinsteinabi/WeinsteinActivity15/blob/main/Activity15QMD.pdf) - Final output of the Activity #14 report.
+4.  [**Activity #15 Report**](https://github.com/weinsteinabi/WeinsteinActivity15/blob/main/Activity15Report.pdf) - Final output of the Activity #14 report.
 
 Each element is linked to within this section. Click the text to go directly to its respective repository element.
 
