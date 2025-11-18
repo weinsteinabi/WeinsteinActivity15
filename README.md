@@ -16,7 +16,7 @@ Activity #14 has four tasks necessary to be implemented. These involve reapplyin
 
 -   **Task 4:** Course Reflection
 
-These tasks are described in more detail within the [output](https://github.com/weinsteinabi/WeinsteinActivity15/blob/main/Activity15QMD.pdf) document and [.QMD](https://github.com/weinsteinabi/WeinsteinActivity15/blob/main/Activity15QMD.qmd) file supplied within the repository.
+These tasks are described in more detail within the [output](https://github.com/weinsteinabi/WeinsteinActivity15/blob/main/Activity15Report.pdf) document and [.QMD](https://github.com/weinsteinabi/WeinsteinActivity15/blob/main/Activity15QMD.qmd) file supplied within the repository.
 
 ## Data Sources
 
