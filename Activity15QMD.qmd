@@ -7,6 +7,7 @@ date: "Nov. 17, 2025"
 date-modified: now 
 format: 
   pdf:
+    output-file: "Activity15Report.pdf"
     embed-resources: true
     toc: true
     link-external-newwindow: true
