@@ -1,0 +1,63 @@
+This document details the plan for both 1) managing of the GitHub repository for 
+Activity #15 and 2) producing the final QMD file for Activity #15. 
+
+Task 1 - Manage GitHub Repository
+GOAL: Create a public, working GitHub repository using files from Activity #14
+NEEDS: GitHub Desktop, RStudio, Activity #14 QMD file, Activity #15 repository
+STEPS:
+1) Create "WeinsteinActivity15" repository on desktop
+2) Open a developer branch
+3) Open in R
+4) Add all necessary files to R environment
+  a. README
+  b. Planning document
+  c. QMD file
+  d. Output document
+5) Commit inital documents to developer branch devWeinstein
+6) Conduct any necessary edits to QMD file and render to pdf
+  **Note: already pre-created, otherwise would be later step**
+7) Commit QMD and PDF changes to devWeinstein
+8) Update/write up planning document 
+  a. Record steps of the QMD file
+  b. Record GitHub management steps
+9) Commit update to devWeinstein
+10) Generate an appropriate README file
+  a. Include descriptions of data sources, repo organization, etc. 
+11) Commit update to devWeinstein
+12) Push to main branch
+13) Public repository to GitHub
+14) Check over documentation and update as needed
+
+TASK 2 - Create QMD File
+GOALS: Create a report documenting updated code for three separate assignments 
+in a QMD file, rendered as a PDF
+NEEDS: RStudio, Quarto, BabyNames Data, US Armed Forces Data, Rank-PayGrade Data, 
+{tidyverse, ggplot2, dpylr, rvest, googlesheets4, knitr, kableExtra, scales}
+STEPS: 
+1) Open a R QMD file
+2) Set up document in YAML header
+  a. Include name, date, title, output format, etc. 
+  b. Include an abstract to introduce document
+  c. Include table of contents
+3) Begin Task 1 - Activity #8 and #10 redo
+  a. Briefly describe task and process (USAF frequency table + wrangling)
+  b. Import USAF and Rank-Pay data and packages
+  c. Clean data and merge
+  d. Subset data to include one branch and one pay group
+  e. Generate frequency table 
+  f. Produce narrative text describing the visualization 
+4) Begin Task 2 - Activity #13 redo
+  a. Briefly describe task and process (Baby Name subset line plot)
+  b. Import BabyNames data and packages
+  c. Subset data 
+  d. Generate line plot
+  f. Produce narrative text describing the visualization
+5) Begin Task 3 - Activity #4 expansion
+  a. Briefly describe task and process (modify volume function + plot)
+  b. Import packages
+  c. Modify function to meet parameters provided
+  d. Use stat_function to produce function plot
+  e. Produce narrative text describing the visualization
+6) Reflect on course material (Task 4)
+7) Generate a code appendix, separated by section
+8) Review and update as needed
