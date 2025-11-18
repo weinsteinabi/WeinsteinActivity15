@@ -2,7 +2,7 @@
 
 ## Creating a GitHub Repository for Activity #14
 
-The repository supplements the tasks from Activity #14 for STAT 184, which involves creating a .QMD file documenting changes and visualizations for a variety of previous assignments. The goals of this activity are to allow students to practice revising and improving code, developing narrative text, and working with GitHub. These are all skills that will be implemented in the Course Project at the end of the semester.
+This repository supplements the tasks from Activity #14 for STAT 184, which involves creating a .QMD file documenting changes and visualizations for a variety of previous assignments. The goals of this activity (Activity #15) are to allow students to practice revising and improving code, developing narrative text, and working with GitHub. These are all skills that will be implemented in the Course Project at the end of the semester.
 
 #### Activity #14 Tasks
 
@@ -20,7 +20,7 @@ These tasks are described in more detail within the [output](https://github.com/
 
 ## Data Sources
 
-The first two tasks of Activity #14 required external data sources.
+Only the first two tasks of Activity #14 required external data sources.
 
 **Task 1 Data:** We utilized two data frames for this task, U.S. Armed Forces Data and Rank-Pay Grade data. Both sources are linked below:
 
@@ -46,7 +46,7 @@ The following elements are currently included within the repository:
 
 1.  [**README.md**](https://github.com/weinsteinabi/WeinsteinActivity15/blob/main/README.md) - contains overview of the repository, data sources, and creator contact information.
 2.  [**Activity #15 Plan**](https://github.com/weinsteinabi/WeinsteinActivity15/blob/main/Activity15Plan) - contains goals and plans for both repository management and report development.
-3.  [**Activity #15 QMD**](https://github.com/weinsteinabi/WeinsteinActivity15/blob/main/Activity15QMD.qmd) **-** Quarto documentation for the Activity #14 report; contains raw code and narrative text.
+3.  [**Activity #15 QMD**](https://github.com/weinsteinabi/WeinsteinActivity15/blob/main/Activity15QMD.qmd) - Quarto documentation for the Activity #14 report; contains raw code and narrative text.
 4.  [**Activity #15 Report**](https://github.com/weinsteinabi/WeinsteinActivity15/blob/main/Activity15QMD.pdf) - Final output of the Activity #14 report.
 
 Each element is linked to within this section. Click the text to go directly to its respective repository element.
